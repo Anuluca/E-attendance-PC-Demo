@@ -1,4 +1,4 @@
-<div align="center">E考勤后台管理系统</div>
+<div align="center">只使用<b>antd+Redux</b>，<b>没有主题切换等冗余功能</b> <b>适合企业内项目开发</b> 的后台管理系统模板</div>
 <br />
 
 ### 依赖安装
